@@ -38,7 +38,6 @@ This repository contains a structured sales dataset in CSV format, suitable for 
 - Dashboard creation using Tableau or Power BI
 
 ---
-
 ## 📚 Tools You Can Use
 
 - **SQL** (MySQL, PostgreSQL): for querying and aggregating data
@@ -59,4 +58,49 @@ This dataset is **synthetic** and generated for **educational and demonstration 
 Feel free to fork the repo, raise issues, or submit pull requests if you want to enhance or analyze the dataset further.
 
 ---
+
+# Task 7
+# 📊 Amazon Sales Data Analysis
+
+This project analyzes and visualizes sales performance data using the `AmazonSalesData.csv` file. The dataset includes key sales metrics across various item types and categories. Visualizations help highlight which products contribute most to overall revenue.
+
+---
+
+## 📁 Dataset
+
+**File:** `AmazonSalesData.csv`  
+**Columns may include:**  
+- `Item Type`: Category of the item sold  
+- `Revenue`: Total revenue generated  
+- Other metadata such as region, order priority, sales channel, etc.
+
+---
+
+## 🔍 Analysis Goals
+
+- Identify top-performing item types by revenue.
+- Visualize the revenue distribution using bar and pie charts.
+- Provide a quick overview for decision-making or reporting.
+
+---
+
+## 🧪 Technologies Used
+
+- Python 3
+- Pandas for data manipulation
+- Matplotlib for visualization
+
+---
+
+## 📊 Visualizations
+
+### 1. Bar Chart
+Displays total revenue by each item type.
+
+![Bar Chart](sales_chart.png)
+
+### 2. Pie Chart
+Shows the revenue share of the top 5 item types.
+
+___
 

@@ -104,3 +104,40 @@ Shows the revenue share of the top 5 item types.
 
 ___
 
+##Task 8
+# Sales Dashboard Analysis 📊
+
+This project presents a comprehensive Tableau dashboard analyzing sales performance across various dimensions such as time (Month-Year), city, state, and product category. The dataset includes transaction-level details covering order amounts, quantities, and profits.
+
+## 📁 Project Structure
+
+- **Month-Year by Amount**: Visualizes monthly sales trends, highlighting fluctuations in total sales over time.
+- **City by Amount**: Bar chart comparing total sales amounts across key cities.
+- **Donut Chart**: Displays individual order details by category, date, and order ID.
+- **State by Quantity**: Scatter plot comparing sales quantity across major states.
+
+## 📌 Key Insights
+
+- New York shows the highest performance in both sales amount and quantity.
+- Sales trends vary significantly month-to-month.
+- Electronics and Furniture categories contribute prominently to overall revenue.
+
+## 💻 Tools Used
+
+- Tableau Public / Tableau Desktop
+- CSV data from a retail sales dataset
+
+## 📎 Usage
+
+1. Clone the repository.
+2. Open the Tableau workbook (`.twb` or `.twbx`) to explore the dashboard.
+3. Use filters and interactions to derive your own insights.
+
+## 📬 Contact
+
+For any questions or feedback, feel free to open an issue or reach out via email.
+
+---
+
+
+
